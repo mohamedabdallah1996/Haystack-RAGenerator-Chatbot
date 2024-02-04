@@ -1,0 +1,9 @@
+data/*
+
+__pycache__/
+
+hstack_env/
+
+.chainlit/
+
+.env

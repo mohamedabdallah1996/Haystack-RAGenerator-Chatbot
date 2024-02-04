@@ -1,0 +1,4 @@
+farm-haystack[all] -f https://download.pytorch.org/whl/torch_stable.html
+datasets>=2.6.1
+python-dotenv
+chainlit
